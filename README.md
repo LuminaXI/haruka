@@ -20,8 +20,6 @@ PREFIX = !!
   - ban
   - kick
   - clear
-  - mute
-  - warn
 - fun commands:
   - shello 
   - hug 
