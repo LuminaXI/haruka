@@ -1,4 +1,4 @@
-![Haruka](https://cdn.discordapp.com/attachments/863427833144803371/870172248089169930/kyouu-chan-BANNER-GITHUB.jpg)
+![Haruka](https://cdn.discordapp.com/attachments/782755082780934154/876573653138018344/standard_1.gif)
 
 # Haruka's info
 a multi-purpose discord bot. that includes moderation, fun, economy, and anime commnads!
