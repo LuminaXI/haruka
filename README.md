@@ -5,15 +5,17 @@ a multi-purpose discord bot. that includes moderation, fun, economy, and anime c
 
 # how to install this bot:
 1. [x] clone this repo: `git clone https://github.com/ItsLunarKing/haruka.git`.
-2. [x] create the .env file and copy these:
+2. [x] create the config.json file and copy these:
 ```javascript
-TOKEN = TOKEN_HERE
-PREFIX = !!
+{
+    "token": "TOKEN_HERE",
+    "prefix": "!"
+}
 ```
 3. [x] copy your token from [discord.dev](https://discord.dev) and paste it into the .env file.
 4. [x] go to the file location using `cd`.
 5. [x] use `npm install` in your discord bot's file.
-6. when the download is done type ```nodemon``` in your bot file.
+6. when the download is done type ```nodemon src/index.js``` in your bot file.
 
 ## commands
 - moderation commands: 
