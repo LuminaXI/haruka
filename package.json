@@ -1,41 +1,24 @@
 {
-  "name": "hirobot",
+  "name": "haruka!-v13",
   "version": "1.0.0",
-  "description": "HiroBot",
-  "main": "index.js",
+  "description": "",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mythical.js#0404",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "002": "^1.0.5",
-    "@freezegold/anime.js": "^2.0.5-beta",
-    "abort-controller": "^3.0.0",
-    "ainasepics": "^1.7.5",
-    "akaneko": "^4.5.3",
-    "anime-facts": "^1.2.5",
-    "anime-images-api": "^1.0.24",
-    "asynckit": "^0.4.0",
-    "axios": "^0.21.1",
-    "canvas": "^2.7.0",
-    "combined-stream": "^1.0.8",
-    "db": "^3.3.0",
-    "delayed-stream": "^1.0.0",
-    "discord.js": "^12.5.3",
+    "anime-images-api": "^2.0.0",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.0.1",
     "discord.js-avatar": "^1.0.0",
-    "discord.js-poll-embed": "^1.0.2",
-    "dotenv": "^8.2.0",
-    "fs": "^0.0.1-security",
-    "hmfull": "^1.2.3",
-    "node-fetch": "^2.6.1",
-    "nodemon": "^2.0.7",
-    "quick.eco": "^6.0.0",
-    "random-anime": "^1.0.6",
-    "random-discord": "^1.0.2-1"
-  },
-  "keywords": [],
-  "devDependencies": {
-    "eslint": "^7.21.0"
+    "discord.js-menu": "^2.3.1",
+    "discord.js-reaction-controller": "^2.1.1",
+    "eslint": "^7.32.0",
+    "hmfull": "^1.2.5",
+    "nodemon": "^2.0.12",
+    "util": "^0.12.4"
   }
 }
