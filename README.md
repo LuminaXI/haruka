@@ -1,10 +1,10 @@
-![kyouu-chan](https://cdn.discordapp.com/attachments/863427833144803371/870172248089169930/kyouu-chan-BANNER-GITHUB.jpg)
+![Haruka](https://cdn.discordapp.com/attachments/863427833144803371/870172248089169930/kyouu-chan-BANNER-GITHUB.jpg)
 
-# kyouu-chan info
+# Haruka's info
 a multi-purpose discord bot. that includes moderation, fun, economy, and anime commnads!
 
 # how to install this bot:
-1. [x] clone this repo: `git clone https://github.com/ItsLunarKing/kyouu-chan.git`.
+1. [x] clone this repo: `git clone https://github.com/ItsLunarKing/haruka.git`.
 2. [x] create the .env file and copy these:
 ```javascript
 TOKEN = TOKEN_HERE
